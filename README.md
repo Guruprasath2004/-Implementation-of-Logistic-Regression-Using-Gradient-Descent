@@ -118,6 +118,7 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+
 ![199067370-21f6e068-3851-4596-bad3-35dc02d079a6](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/e5311ce6-a9ee-4086-b99f-f8c6b4491790)
 ![199067368-23904c41-d2d1-4e62-83d0-29a65b810abe](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/462fb7c0-fff3-4b13-94d0-b6498c351f26)
 ![199067364-67b76106-9b8d-4758-a093-ec7e7f4b2d32](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/edc4acfc-30af-40ec-9c5e-eac35cb89e19)
